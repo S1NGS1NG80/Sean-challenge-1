@@ -11,4 +11,5 @@ The source code included the use of semantic HTML elements and follows a logical
 Links that were not working have been fixed, specifically the "Search Engine Optimization" header, which now links to the correct section.
 
 https://github.com/S1NGS1NG80/Sean-challenge-1.git
+
 https://s1ngs1ng80.github.io/Sean-challenge-1/
